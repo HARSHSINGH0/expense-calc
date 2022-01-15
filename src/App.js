@@ -23,6 +23,7 @@ function App() {
 	return (
 		<div className="App">
 			<header className="App-header">
+		test
 				<ExpenseItem
 					title={expenses[0].title}
 					amount={expenses[0].amount}
